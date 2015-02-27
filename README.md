@@ -1,7 +1,7 @@
 Obsolete SDK packages
 ============
 
-PayPal has historicaly distribed binary SDK packages here.
+PayPal has historically distributed binary SDK packages here.
 
 We are slowly moving individual SDKs to use their own space via GitHub's release feature. Please find the individual repo, then click the releases tab.
 
