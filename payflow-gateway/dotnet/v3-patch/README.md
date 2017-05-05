@@ -8,9 +8,4 @@ If you are using the V3 Payflow client SDK for Windows and are not able to conne
 - Live - https://payflowpro.paypal.com
 - Test - https://pilot-payflowpro.paypal.com
  
-For other versions download the [latest version of the Payflow SDKs](http://paypal.github.io/sdk/#payflow-gateway) (.Net or Java) or use the HTTPS interface.  See the [Payflow Documentation Guide](https://developer.paypal.com/docs/classic/payflow/integration-guide/) for more information.
- 
-If you choose to use the HTTPS interface, the [integration wizard](https://devtools-paypal.com/integrationwizard/) can assist you with a working example.  
- 
 Once you have made the changes you can verify the Client SDK you are using by looking at the transaction details within the Payflow Manager.
- 
