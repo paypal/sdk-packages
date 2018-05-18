@@ -1,4 +1,4 @@
 Payflow Gateway
 ===============
 
-See [the documentation](https://developer.paypal.com/docs/classic/products/payflow-gateway/) for more info.
+Note: All Payflow Gateway files have been moved to a [separate repo](https://github.com/paypal/payflow-gateway).
